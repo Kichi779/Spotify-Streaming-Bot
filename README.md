@@ -9,7 +9,7 @@ This project is a Spotify listener bot. With this bot, it automatically logs int
 The project reflects as a listener to you. The project is new and will be supported with updates, but my sole motivation is for you to give the project a star.
 
 # Preview 💬
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤAt the end of the video are spotify artist results.
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤAt the end of the video are spotify artist results.
 https://github.com/Kichi779/Spotify-Streaming-Bot/assets/92625816/3e0180de-181b-492c-ac26-932c624e4e93
 
 # 📥 Installation & Usage
