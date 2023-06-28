@@ -35,6 +35,7 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 
 - **After completing the installation process, make sure that you have successfully installed the chromedriver.**
 
+- Type mail:password line by line in the accounts.txt file.
 
 - **Then run the run.bat file or double click the main.py file.**
 
