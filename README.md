@@ -53,6 +53,8 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 - Premium accounts give clearer results, new accounts may not generate income for you.
 ### - **From the [SHOP](https://kichi779.online/urun/spotify-5-pieces-3-month-premium-mail-and-password-special/), you can buy 5 completely your own (non-stolen production) 3-month premium accounts for 4 dollars. This gives you more income**
 
+-I do not recommend changing the time sleep settings in the program, it is guaranteed to be slow, I tried to make it behave like a real person
+
 # Stars ⭐
 - Proxy system. Each account is connected with a proxy / 25 Star ⭐ ❌
 - Accounts like the song, follow the account and loop / 50 Star ⭐⭐❌
