@@ -8,6 +8,8 @@ This project is a Spotify listener bot. With this bot, it automatically logs int
 
 The project reflects as a listener to you. The project is new and will be supported with updates, but my sole motivation is for you to give the project a star.
 
+The program is new, still in development, please report any bugs to us on the discord server. ⚠️
+
 # Preview 💬
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤAt the end of the video are spotify artist results.
 
