@@ -68,9 +68,6 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 ㅤㅤㅤㅤㅤㅤㅤ![image (1)](https://github.com/Kichi779/Spotify-Streaming-Bot/assets/92625816/d7580b7f-ef27-4430-baf3-9eeaca9ca8c9)
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(prices may vary)
 
-# [💸 Spotify Earnings Guide](https://discord.gg/AFV9m8UXuT)
-
-If you are new to earning income on Spotify, there is a nice pdf that we have prepared on this topic on the [discord server](https://discord.gg/AFV9m8UXuT). If you're new to this stuff, I recommend you read this. There are extra little tricks for the program.
 
 # ⚠️Legal⚠️
 
