@@ -67,7 +67,7 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤWebsite: https://kichi779.online/
 
  [![Shop](https://user-images.githubusercontent.com/92625816/230799946-2af1a68f-ebcf-4379-9d00-0921e9c799bb.png)](https://github.com/Kichi779/Kichi779-SMM-Shop)
-ㅤㅤㅤㅤㅤㅤㅤ![image (1)](https://github.com/Kichi779/Spotify-Streaming-Bot/assets/92625816/d7580b7f-ef27-4430-baf3-9eeaca9ca8c9)
+ㅤㅤㅤㅤㅤㅤㅤ![image (1)](https://github.com/Kichi779/Spotify-Streaming-Bot/assets/92625816/ad31dd67-4645-4b6a-a2ef-bfdd1b83bd81)
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(prices may vary)
 
 
