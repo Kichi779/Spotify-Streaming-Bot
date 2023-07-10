@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
 from selenium.common.exceptions import NoSuchElementException
 import random
 import requests
@@ -104,7 +105,7 @@ def main():
     drivers = []
 
     for account in accounts:
-        driver = webdriver.Chrome(service=Service(driver_path), options=chrome_options)
+        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
 
         username, password = account.strip().split(':')
 
@@ -116,6 +117,7 @@ def main():
             password_input = driver.find_element(By.CSS_SELECTOR, "input#login-password")
 
             username_input.send_keys(username)
+            time.sleep(3)
             password_input.send_keys(password)
 
             driver.find_element(By.CSS_SELECTOR, "button[data-testid='login-button']").click()
