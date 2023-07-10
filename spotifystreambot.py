@@ -117,6 +117,7 @@ def main():
             password_input = driver.find_element(By.CSS_SELECTOR, "input#login-password")
 
             username_input.send_keys(username)
+            time.sleep(3)
             password_input.send_keys(password)
 
             driver.find_element(By.CSS_SELECTOR, "button[data-testid='login-button']").click()
