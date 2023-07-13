@@ -3,3 +3,4 @@ requests
 keyboard
 colorama
 pystyle
+pytz
