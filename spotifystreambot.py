@@ -3,7 +3,6 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 import requests
 import webbrowser
@@ -165,10 +164,7 @@ def main():
             'profile.default_content_setting_values.notifications': 2
         })
 
-        capabilities = DesiredCapabilities.CHROME
-        capabilities['goog:loggingPrefs'] = {'performance': 'ALL'}
-
-        driver = webdriver.Chrome(service=Service(driver_path), options=chrome_options, desired_capabilities=capabilities)
+        driver = webdriver.Chrome(service=Service(driver_path), options=chrome_options)
 
         username, password = account.strip().split(':')
 
