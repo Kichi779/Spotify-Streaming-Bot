@@ -58,9 +58,9 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 -I do not recommend changing the time sleep settings in the program, it is guaranteed to be slow, I tried to make it behave like a real person
 
 # Stars ⭐
-- Proxy system. Each account is connected with a proxy / 25 Star ⭐ ❌
-- Accounts like the song, follow the account and loop / 50 Star ⭐⭐❌
-- Automatically creates accounts and starts listening with created accounts / 100 Star ⭐⭐⭐❌
+- Proxy system. Each account is connected with a proxy / 50 Star ⭐ ❌
+- Accounts like the song, follow the account and loop / 100 Star ⭐⭐❌
+- Automatically creates accounts and starts listening with created accounts / 150 Star ⭐⭐⭐❌
 
 # [🛒 Shop](https://kichi779.online/)
   ㅤㅤ  ㅤ
