@@ -1,6 +1,5 @@
 ![spoa](https://github.com/Kichi779/Spotify-Streaming-Bot/assets/92625816/3899d0b7-37e9-4fce-a3ab-5d757182157f)
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-[Discord](https://discord.gg/fesaScZqpn)ㅤ[Github](https://github.com/Kichi779)ㅤ[Shop](https://kichi779.online/)
 
 ### Please leave a star for the project. This project is free and open source. ⭐ You can leave a star from the top right. ⭐
 
@@ -53,7 +52,6 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 - This system opens multiple background sites, so make sure you have plenty of RAM or perform this operation on an unused computer. (It could be on a powerful virtual server.)
 
 - Premium accounts give clearer results, new accounts may not generate income for you.
-### - **From the [SHOP](https://kichi779.online/urun/spotify-5-pieces-3-month-premium-mail-and-password-special/), you can buy 5 completely your own (non-stolen production) 3-month premium accounts for 4 dollars. This gives you more income**
 
 -I do not recommend changing the time sleep settings in the program, it is guaranteed to be slow, I tried to make it behave like a real person
 
@@ -61,14 +59,6 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 - Proxy system. Each account is connected with a proxy / 50 Star ⭐ ❌
 - Accounts like the song, follow the account and loop / 100 Star ⭐⭐❌
 - Automatically creates accounts and starts listening with created accounts / 150 Star ⭐⭐⭐❌
-
-# [🛒 Shop](https://kichi779.online/)
-  ㅤㅤ  ㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤWebsite: https://kichi779.online/
-
- [![Shop](https://user-images.githubusercontent.com/92625816/230799946-2af1a68f-ebcf-4379-9d00-0921e9c799bb.png)](https://github.com/Kichi779/Kichi779-SMM-Shop)
-ㅤㅤㅤㅤㅤㅤㅤ![image (1)](https://github.com/Kichi779/Spotify-Streaming-Bot/assets/92625816/ad31dd67-4645-4b6a-a2ef-bfdd1b83bd81)
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ(prices may vary)
 
 
 # ⚠️Legal⚠️
