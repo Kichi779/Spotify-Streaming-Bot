@@ -62,15 +62,15 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 ![249576372-3899d0b7-37e9-4fce-a3ab-5d757182157f](https://github.com/Kichi779/Spotify-Streaming-Bot/assets/92625816/ae0b8ea8-1e9d-4a18-8187-b292899679cc)
 ![output-onlinegiftools](https://github.com/Kichi779/Spotify-Streaming-Bot/assets/92625816/28e947be-361b-43db-91f2-70692a8f6c6e)
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔒 KICHIAIO SPOTIFY PREMIUM SPOTIFY BOT
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔒 KICHIAIO SPOTIFY PREMIUM SPOTIFY BOT
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤ🎧 Listener Bot
+ㅤㅤㅤㅤㅤㅤㅤ🎧 Listener Bot
 👍 Like Bot
 🚀 Follower Bot
 🕵️ Account Checker
 🎶 Playlist Generator
 
-‎‎‏‎‏‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[[DISCORD]](https://discord.gg/z8Hnv6nhFn) [[WEBSITE]](https://kichiaio.net/)
+‎‎‏‎‏‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[[DISCORD]](https://discord.gg/z8Hnv6nhFn) [[WEBSITE]](https://kichiaio.net/)
 
 
 # ⚠️Legal⚠️
