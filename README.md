@@ -1,5 +1,5 @@
 ![spoa](https://github.com/Kichi779/Spotify-Streaming-Bot/assets/92625816/3899d0b7-37e9-4fce-a3ab-5d757182157f)
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+‎‎‎‎‏‏‎‏‎‏‎‎‏‎‏‎‏‎‏‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ‏‎‏‎[WEBSITE](https://kichi779.com/) ‏‎‏‎‏‎[DISCORD](https://discord.gg/3Wp3amnNr3)
 
 ### Please leave a star for the project. This project is free and open source. ⭐ You can leave a star from the top right. ⭐⭐
 
@@ -54,6 +54,17 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 - Premium accounts give clearer results, new accounts may not generate income for you.
 
 -I do not recommend changing the time sleep settings in the program, it is guaranteed to be slow, I tried to make it behave like a real person
+
+  # [![kichi779shoppanel](https://github.com/Kichi779/Twitch-Chat-Bot/assets/92625816/e78969b1-80e0-4349-9d0f-872563ba0a14)](https://kichi779.com/)
+  ‎‎‎‎‏‏‎‏‎‏‎‎‏‎‏‎‏‎‏‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ‏‎‏‎‏‎[WEBSITE](https://kichi779.com/) ‏‎‏‎‏‎[DISCORD](https://discord.gg/3Wp3amnNr3)
+  ## Boost Your Twitch, YouTube, Instagram, and Spotify Accounts with Our SMM Panel!
+‏‎
+- Twitch Chat TOKENS
+- Twitch Followers & Views: Enhance your Twitch channel with genuine followers and views to increase your visibility and attract more organic growth.
+- YouTube Subscribers, Likes & Views: Boost your YouTube channel with real subscribers, likes, and views to improve your engagement and ranking.
+- Instagram Followers, Likes & Comments: Grow your Instagram profile with authentic followers, likes, and comments to strengthen your online presence and influence.
+- Spotify Plays & Followers: Increase your Spotify plays and followers to get your music heard by a wider audience and climb the charts.
+-  ### AND MORE
 
 # Stars ⭐
 - Proxy system. Each account is connected with a proxy / 150 Star ⭐ ❌
