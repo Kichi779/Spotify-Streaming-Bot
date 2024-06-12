@@ -71,7 +71,8 @@ def main():
                        ███   ▀█▀ █▀    ████████▀    ███    █▀    █▀   
                        ▀                                             
  Improvements can be made to the code. If you're getting an error, visit my discord.  
-                             Github  github.com/kichi779    """)))
+                             Github  github.com/kichi779
+                             Discord discord.gg/3Wp3amnNr3 """)))
     print("")
     print(Colors.red, Center.XCenter("ANNOUNCEMENT"))
     print(Colors.yellow, Center.XCenter(f"{announcement}"))
