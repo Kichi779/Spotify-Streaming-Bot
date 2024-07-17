@@ -5,7 +5,7 @@
 
 This project is a Spotify listener bot. With this bot, it automatically logs into Spotify web and then opens the Spotify song link it asks you for, pressing the play button. The foundation of the project is Python Selenium.
 
-The project reflects as a listener to you. The project is new and will be supported with updates, but my sole motivation is for you to give the project a star.
+The project reflects as a listener to you. The project is new and will be supported with updates, but my sole motivation is for you to give the project a star..
 
 The program is new, still in development, please report any bugs to us on the discord server. ⚠️
 
