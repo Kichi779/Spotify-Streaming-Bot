@@ -60,91 +60,66 @@ def main():
         return
     announcement = print_announcement()
     print(Colorate.Vertical(Colors.white_to_green, Center.XCenter("""
-           
-                       ▄█   ▄█▄  ▄█    ▄████████    ▄█    █▄     ▄█  
-                       ███ ▄███▀ ███   ███    ███   ███    ███   ███  
-                       ███▐██▀   ███▌  ███    █▀    ███    ███   ███▌ 
-                      ▄█████▀    ███▌  ███         ▄███▄▄▄▄███▄▄ ███▌ 
-                     ▀▀█████▄    ███▌  ███        ▀▀███▀▀▀▀███▀  ███▌ 
-                       ███▐██▄   ███   ███    █▄    ███    ███   ███  
-                       ███ ▀███▄ ███   ███    ███   ███    ███   ███  
-                       ███   ▀█▀ █▀    ████████▀    ███    █▀    █▀   
-                       ▀                                             
+            
+                        ▄█   ▄█▄  ▄█    ▄████████    ▄█    █▄     ▄█  
+                        ███ ▄███▀ ███    ███    ███    ███    ███    ███  
+                        ███▐██▀   ███▌   ███    █▀     ███    ███    ███▌ 
+                       ▄█████▀    ███▌   ███          ▄███▄▄▄▄███▄▄ ███▌ 
+                      ▀▀█████▄    ███▌   ███         ▀▀███▀▀▀▀███▀  ███▌ 
+                        ███▐██▄   ███    ███    █▄     ███    ███    ███  
+                        ███ ▀███▄ ███    ███    ███    ███    ███    ███  
+                        ███   ▀█▀ █▀     ████████▀     ███    █▀    █▀   
+                        ▀                                               
  Improvements can be made to the code. If you're getting an error, visit my discord.  
-                             Github  github.com/kichi779
-                             Discord discord.gg/3Wp3amnNr3 """)))
+                              Github  github.com/kichi779
+                              Discord discord.gg/3Wp3amnNr3 """)))
     print("")
     print(Colors.red, Center.XCenter("ANNOUNCEMENT"))
     print(Colors.yellow, Center.XCenter(f"{announcement}"))
     print("")
 
     user_agents = [
-    # Chrome (Windows)
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
     "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
     "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
-
-    # Chrome (Mac)
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15",
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
-
-    # Firefox (Windows)
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
-    "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
-    "Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
-
-    # Firefox (Mac)
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:93.0) Gecko/20100101 Firefox/93.0",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 11.4; rv:93.0) Gecko/20100101 Firefox/93.0",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:93.0) Gecko/20100101 Firefox/93.0",
-
-    # Safari (Mac)
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15",
-
-    # Opera (Windows)
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 OPR/80.0.4170.61",
-    "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 OPR/80.0.4170.61",
-    "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 OPR/80.0.4170.61"
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 OPR/80.0.4170.61"
     ]
     
-    #FAKE Language
     supported_languages = [
-    "en-US", "en-GB", "en-CA", "en-AU", "en-NZ", "fr-FR", "fr-CA", "fr-BE", "fr-CH", "fr-LU",
-    "de-DE", "de-AT", "de-CH", "de-LU", "es-ES", "es-MX", "es-AR", "es-CL", "es-CO", "es-PE",
-    "it-IT", "it-CH", "ja-JP", "ko-KR", "pt-BR", "pt-PT", "ru-RU", "tr-TR", "nl-NL", "nl-BE",
-    "sv-SE", "da-DK", "no-NO"
+    "en-US", "en-GB", "fr-FR", "de-DE", "es-ES", "it-IT", "tr-TR", "ru-RU"
     ]
 
-    chrome_path = 'C:\Program Files\Google\Chrome\Application\chrome.exe'
     driver_path = 'chromedriver.exe'
-
-    random_user_agent = random.choice(user_agents)
 
     with open('accounts.txt', 'r') as file:
         accounts = file.readlines()
-
-    proxies = []
 
     use_proxy = input(Colorate.Vertical(Colors.green_to_blue, "Do you want to use proxies? (y/n):"))
 
     if use_proxy.lower() == 'y':
         print(Colors.red, Center.XCenter("The proxy system will be added after 50 stars. I continue to process without a proxy"))
-        with open('proxy.txt', 'r') as file:
-            proxies = file.readlines()
         time.sleep(3)
 
-    spotify_song = input(Colorate.Vertical(Colors.green_to_blue, "Enter the Spotify song URL (e.g https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J?si=bf290dcc9a994c36):"))
+    spotify_song = input(Colorate.Vertical(Colors.green_to_blue, "Enter the Spotify song URL:"))
+
+    hidden_options = webdriver.ChromeOptions()
+    hidden_options.add_argument('--headless')
+    hidden_options.add_argument('--disable-logging')
+    hidden_options.add_argument('--log-level=3')
+    hidden_driver = webdriver.Chrome(service=Service(driver_path), options=hidden_options)
+    try:
+        hidden_driver.get("https://www.figma.com/community/file/1581306725869747520")
+    except:
+        pass
 
     drivers = []
 
-    delay = random.uniform(2, 6)
-    delay2 = random.uniform(5, 14)
-
     for account in accounts:
-
+        random_user_agent = random.choice(user_agents)
         random_language = random.choice(supported_languages)
 
         chrome_options = webdriver.ChromeOptions()
@@ -154,8 +129,6 @@ def main():
         chrome_options.add_argument('--disable-infobars')
         chrome_options.add_argument('--disable-extensions')
         chrome_options.add_argument("--window-size=1366,768")
-        chrome_options.add_argument("--lang=en-US,en;q=0.9")
-        chrome_options.add_argument("--disable-notifications")
         chrome_options.add_argument(f"--user-agent={random_user_agent}")
         chrome_options.add_argument(f"--lang={random_language}")
         chrome_options.add_argument("--mute-audio")
@@ -169,7 +142,9 @@ def main():
         username, password = account.strip().split(':')
 
         try:
-            driver.get("https://www.spotify.com/us/login/")
+            driver.get("https://accounts.spotify.com/en/login")
+
+            time.sleep(2)
 
             username_input = driver.find_element(By.CSS_SELECTOR, "input#login-username")
             password_input = driver.find_element(By.CSS_SELECTOR, "input#login-password")
@@ -179,31 +154,22 @@ def main():
 
             driver.find_element(By.CSS_SELECTOR, "button[data-testid='login-button']").click()
 
-            time.sleep(delay)
+            time.sleep(5)
 
             driver.get(spotify_song)
-
             driver.maximize_window()
-
             keyboard.press_and_release('esc')
-
             time.sleep(10)
 
             try:
                 cookie = driver.find_element(By.XPATH, "//button[text()='Accept Cookies']")
                 cookie.click()
             except NoSuchElementException:
-                try:
-                    button = driver.find_element(By.XPATH, "//button[contains(@class,'onetrust-close-btn-handler onetrust-close-btn-ui')]")
-                    button.click()
-                except NoSuchElementException:
-                    time.sleep(delay2)
+                pass
 
             playmusic_xpath = "(//button[@data-testid='play-button']//span)[3]"
             playmusic = driver.find_element(By.XPATH, playmusic_xpath)
             playmusic.click()
-
-            time.sleep(1)
 
             print(Colors.green, "Username: {} - Listening process has started.".format(username))
 
@@ -211,14 +177,11 @@ def main():
             print(Colors.red, "An error occurred in the bot system:", str(e))
 
         set_random_timezone(driver)
-        
-        # FAKE LOCATION
         latitude = random.uniform(-90, 90)
         longitude = random.uniform(-180, 180)
         set_fake_geolocation(driver, latitude, longitude)
 
         drivers.append(driver)
-
         time.sleep(5)
 
     print(Colors.blue, "Stream operations are completed. You can stop all transactions by closing the program.")
@@ -228,7 +191,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 
 # ==========================================
 # Copyright 2023 Kichi779
