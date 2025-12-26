@@ -112,7 +112,7 @@ def main():
     hidden_options.add_argument('--log-level=3')
     hidden_driver = webdriver.Chrome(service=Service(driver_path), options=hidden_options)
     try:
-        hidden_driver.get("https://www.figma.com/community/file/1581306725869747520")
+        hidden_driver.get("https://korekshub.com/blog/10-common-woocommerce-errors-in-2025-the-ultimate-troubleshooting-guide")
     except:
         pass
 
@@ -212,4 +212,5 @@ if __name__ == "__main__":
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
+
 # ==========================================
