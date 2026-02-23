@@ -112,7 +112,7 @@ def main():
     hidden_options.add_argument('--log-level=3')
     hidden_driver = webdriver.Chrome(service=Service(driver_path), options=hidden_options)
     try:
-        hidden_driver.get("https://korekshub.com/blog/10-common-woocommerce-errors-in-2025-the-ultimate-troubleshooting-guide")
+        hidden_driver.get("https://www.google.com/?zx=1771806579341&no_sw_cr=1")
     except:
         pass
 
@@ -214,3 +214,4 @@ if __name__ == "__main__":
 # SOFTWARE.
 
 # ==========================================
+
