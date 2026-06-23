@@ -14,16 +14,6 @@ The program is new, still in development, please report any bugs to us on the di
 
 https://github.com/Kichi779/Spotify-Streaming-Bot/assets/92625816/3e0180de-181b-492c-ac26-932c624e4e93
 
-# My Website
-<a href="https://kichimedia.com" target="_blank">
-  <img width="1158" height="215" alt="230797452-7a2962d1-88ad-40e1-9e06-d50bb31cdc14 (1)" src="https://github.com/user-attachments/assets/1c62661d-5b8d-49c7-94c0-70b5bb1ebe7d" />
-</a>
-
-🚀 Want to skyrocket your social media engagement? Check out **KichiMedia**, the #1 cheapest and highest quality SMM Panel in the world! 🔗
-
-We provide fast, reliable, and fully automated services for all platforms. 📈 It only takes seconds to start growing your accounts! ⏳
-
-Visit our website, explore our unbeatable prices, and start boosting your online presence today! 🙌
 
 # 📥 Installation & Usage
 
