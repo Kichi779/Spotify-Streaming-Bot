@@ -61,9 +61,6 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 - Proxy system. Each account is connected with a proxy / 150 Star ⭐ ❌
 
 
-👉 [[VISIT KICHIMEDIA]](https://kichimedia.com)
-
-Take your social media to the next level! ❤️🔥
 
 
 
